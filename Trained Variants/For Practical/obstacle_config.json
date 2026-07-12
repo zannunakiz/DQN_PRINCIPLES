@@ -1,0 +1,20 @@
+{
+    "version": "1.0",
+    "obstacles": [
+        {
+            "id": 1,
+            "x": 160,
+            "y": 250,
+            "width": 190,
+            "height": 90,
+            "name": "Central Obstacle",
+            "is_dynamic": false
+        }
+    ],
+    "arena": {
+        "width": 400,
+        "height": 600,
+        "x": 50,
+        "y": 40
+    }
+}

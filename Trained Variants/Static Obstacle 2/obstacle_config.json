@@ -1,0 +1,83 @@
+{
+    "version": "1.0",
+    "obstacles": [
+        {
+            "id": 1,
+            "x": 50,
+            "y": 220,
+            "width": 50,
+            "height": 50,
+            "name": "Central Obstacle",
+            "is_dynamic": false
+        },
+        {
+            "id": 2,
+            "x": 140,
+            "y": 390,
+            "width": 60,
+            "height": 90,
+            "name": "Obstacle 2",
+            "is_dynamic": false
+        },
+        {
+            "id": 3,
+            "x": 260,
+            "y": 290,
+            "width": 50,
+            "height": 50,
+            "name": "Obstacle 3",
+            "is_dynamic": false
+        },
+        {
+            "id": 4,
+            "x": 350,
+            "y": 410,
+            "width": 50,
+            "height": 50,
+            "name": "Obstacle 4",
+            "is_dynamic": false
+        },
+        {
+            "id": 5,
+            "x": 400,
+            "y": 230,
+            "width": 50,
+            "height": 50,
+            "name": "Obstacle 5",
+            "is_dynamic": false
+        },
+        {
+            "id": 6,
+            "x": 150,
+            "y": 110,
+            "width": 50,
+            "height": 50,
+            "name": "Obstacle 6",
+            "is_dynamic": false
+        },
+        {
+            "id": 7,
+            "x": 300,
+            "y": 70,
+            "width": 50,
+            "height": 50,
+            "name": "Obstacle 7",
+            "is_dynamic": false
+        },
+        {
+            "id": 8,
+            "x": 50,
+            "y": 610,
+            "width": 130,
+            "height": 30,
+            "name": "Obstacle 8",
+            "is_dynamic": false
+        }
+    ],
+    "arena": {
+        "width": 400,
+        "height": 600,
+        "x": 50,
+        "y": 40
+    }
+}
